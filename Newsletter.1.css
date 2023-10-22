@@ -1,0 +1,91 @@
+@media screen and (min-width: 827px) {
+  body {
+    background-color: #36384d;
+  }
+
+  main {
+    display: flex;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 55%;
+    width: 700px;
+  }
+
+  .sect-one {
+    width: 50%;
+    border-radius: 10px;
+    position: relative;
+    left: 50%;
+  }
+
+  .con-one {
+    width: 60%;
+    height: 13rem;
+    margin-block: 65% 35%;
+  }
+
+  .sect-one footer {
+    height: 13rem;
+    margin-block: 30% 70%;
+    width: 113.5%;
+    border-radius: 8px 0px 0px 8px;
+    background-color: #f3f3f3;
+    position: relative;
+    left: 60%;
+    bottom: 80%;
+  }
+
+  footer .con-three {
+    width: 35%;
+  }
+
+  /* lower section media query */
+  .sect-two {
+    width: 50%;
+    position: relative;
+    right: 50%;
+    padding-inline: 20px 40px;
+  }
+
+  .sect-two p {
+    width: 100%;
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+
+  .sect-two ul {
+    margin-block: 10px;
+    font-size: 13;
+  }
+
+  .sect-two ul li {
+    width: 100%;
+  }
+
+  .sect-two span {
+    font-size: 11px;
+  }
+
+  .sect-two form input {
+    margin-block: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 13;
+    cursor: pointer;
+  }
+
+  a {
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 13px;
+  }
+
+  a:hover {
+    background: #ff5474 linear-gradient(#ff5474, #f2613f);
+  }
+
+  a:active {
+    background: #ff5474 linear-gradient(#ff5474, #f2613f);
+  }
+}

@@ -1,0 +1,71 @@
+/* Lower section */
+.sect-two {
+  padding-inline: 30px;
+  background-color: #ffffff;
+}
+
+.sect-two h1 {
+  font-size: 40px;
+  padding-block: 40px 20px;
+  color: #212337;
+}
+
+.sect-two p {
+  width: 80%;
+  line-height: 20px;
+  color: #212337;
+}
+
+.sect-two ul {
+  list-style: none;
+  display: flex;
+  margin-block: 20px;
+  align-items: center;
+}
+
+.sect-two ul li {
+  padding-left: 20px;
+  width: 80%;
+  color: #212337;
+}
+
+.sect-two span {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 40px;
+  color: #212337;
+}
+
+.sect-two form input {
+  margin-block: 10px 20px;
+  width: 100%;
+  padding: 20px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+a {
+  margin-block: 10px 40px;
+  display: block;
+  width: 100%;
+  padding: 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  background-color: #232742;
+  text-align: center;
+}
+
+a:hover {
+  background-color: #232742;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
