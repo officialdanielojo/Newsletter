@@ -21,19 +21,18 @@
 
   .con-one {
     width: 60%;
-    height: 13rem;
-    margin-block: 65% 35%;
+    height: 15rem;
+    margin-top: 180px;
   }
 
   .sect-one footer {
-    height: 13rem;
-    margin-block: 30% 70%;
-    width: 113.5%;
+    height: 14rem;
+    width: 20%;
     border-radius: 8px 0px 0px 8px;
     background-color: #f3f3f3;
-    position: relative;
+    position: fixed;
     left: 60%;
-    bottom: 80%;
+    margin-top: 90px;
   }
 
   footer .con-three {
