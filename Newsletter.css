@@ -24,7 +24,7 @@ main {
 }
 
 .con-one {
-  width: 55%;
+  width: 60%;
   height: 10rem;
   border-top: 8px solid #29283f;
   border-right: 8px solid #29283f;
@@ -35,13 +35,13 @@ main {
 }
 
 .sect-one footer {
-  width: 115%;
-  height: 10rem;
+  width: 60%;
+  height: 9rem;
   border-radius: 8px 0px 0px 8px;
   background-color: #f3f3f3;
-  position: relative;
-  left: 140px;
-  bottom: 50%;
+  position: fixed;
+  left: 35%;
+  margin-top: 30px;
 }
 
 footer .con-two {
@@ -53,7 +53,7 @@ footer .con-two {
 }
 
 footer .con-three {
-  width: 24%;
+  width: 35%;
   height: 85%;
   border-radius: 0px 0px 0px 8px;
   background: #dbddea linear-gradient(#dbddea, #e8e7ed);
